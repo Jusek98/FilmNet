@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import MovieCard from './carteFilms';
 
 
-const URL_API="http://www.omdbapi.com?apikey=e92b1026";
+const URL_API="https://www.omdbapi.com?apikey=e92b1026";
 
 const App = () => {
   const [ListeFilms,setListeFilms]=useState([]);
@@ -51,7 +51,7 @@ return(
          </div>
          ): (
            <div className='empty'>
-            <h2>No movies found </h2>
+            <h2>Aucun film ne correspond à votre recherche.   </h2>
            </div>
        )
    }
