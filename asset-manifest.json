@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FilmNet/static/css/main.95551340.css",
-    "main.js": "/FilmNet/static/js/main.198c58e7.js",
+    "main.js": "/FilmNet/static/js/main.1fa2ad2b.js",
     "index.html": "/FilmNet/index.html",
     "static/media/search.svg": "/FilmNet/static/media/search.698d06e081614daacc022fcc3bf50bb8.svg",
     "main.95551340.css.map": "/FilmNet/static/css/main.95551340.css.map",
-    "main.198c58e7.js.map": "/FilmNet/static/js/main.198c58e7.js.map"
+    "main.1fa2ad2b.js.map": "/FilmNet/static/js/main.1fa2ad2b.js.map"
   },
   "entrypoints": [
     "static/css/main.95551340.css",
-    "static/js/main.198c58e7.js"
+    "static/js/main.1fa2ad2b.js"
   ]
 }
